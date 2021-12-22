@@ -1,4 +1,7 @@
 # SuryaPrakash19.github.io
+
+View Project at https://SuryaPrakash19.github.io
+
 My first angular project to understand CRUD operations better. 
 
 This contains the src folder and the package.json file for the project. 
